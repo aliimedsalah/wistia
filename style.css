@@ -1,0 +1,325 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+  
+
+}
+ .nav-list{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.nav-list li{
+    padding: 0 25px;
+}
+#login{
+    
+    border-radius: 5px;
+    padding: 5px 20px;
+
+}
+#get-started{
+    background-color: #3EA9F5;
+    border-radius: 8px;
+    padding: 5px 20px;
+}
+
+ul{
+    position: relative;
+}
+.image
+{
+    position: absolute;
+    top: -14px;
+    left: 19px;
+}
+li{
+    list-style: none;
+}
+.navcontainer2{
+    display: flex;
+    flex-direction: column;
+    
+  
+    padding:100px 0 0 100px;
+    width: 50%;
+    margin: 0px;
+    height: 500px;
+
+
+}
+
+.watch-video{
+    
+    padding: 15px 20px;
+    margin:0;
+    border-radius: 5px;
+    width:25%;
+}
+.video{
+    padding:20px;
+    font-size: 28px;
+    position: absolute;
+    top: 50px;
+    right: 300px;
+   
+
+;
+    
+}
+.navcontainer2-section{
+    background-color:#ca95a4 ;
+    position: relative;
+}
+.navcontainer3-section{
+    display: flex;
+    justify-content: space-around;
+    margin:0 0 80px 0;
+    
+
+    
+    
+}
+.p1{
+    background-color:red;
+height: 300px;
+width: 351px;
+}
+.picture1:hover{
+    opacity: 0.5;
+}
+.p2{
+    background-color:red;
+    height: 300px;
+width: 351px;
+}
+.picture2:hover{
+    opacity: 0.5;
+}
+.p3{
+    background-color: red;
+    height: 300px;
+width: 351px;
+}
+.picture3:hover{
+    opacity:0.5;
+}
+.nav5{
+    text-align: center;
+    background-color: silver;
+    box-sizing: border-box;
+    height: 100px;
+    padding-top: 20px;
+
+    
+ 
+ 
+}
+
+.card1{
+    background-color:#FED24A ;
+    flex:1;
+    font-size: 25px;
+    padding:35px;
+ 
+}
+.card2{
+    background-color: #51C29F;
+    flex:1;
+    padding:35px;
+    font-size: 25px;
+    
+      
+    }
+    .card3{
+        background-color:#3EA9F5;
+        flex:1;
+        padding:35px;
+        font-size: 25px;
+    
+     
+    }
+    .c{
+        order:1
+    }
+    .k{
+        order:3;
+    }
+
+.market{
+    width: 400px;
+    order:2;
+    
+    padding:5px;
+
+}
+
+.b1{
+    padding:20px;
+   
+    
+    border:  white solid 1px;
+    order:4;
+    justify-content: center;
+    background-color:#FED24A;
+    width: 180px;
+    height: 60px; 
+    
+}
+.b2{
+    padding:20px;
+    
+    
+    border:  white solid 1px;
+    order:4;
+    justify-content: center;
+    background-color: #51C29F;
+    width: 180px;
+    height: 60px;
+   
+   
+}
+.b3{
+    padding:20px;
+    background-color: rgb(62, 169, 245) !important;    
+    
+    border:  white solid 1px;
+    order:4;
+    justify-content: center;
+   background-color: #9CA8B7;
+   width: 180px;
+    height: 60px;
+   
+}   
+.b1:hover {
+    background-color: white;
+}
+.b2:hover {
+    background-color: white;
+}
+
+.b3:hover {
+    background-color: white;
+}
+
+
+ 
+ 
+
+
+
+    
+    .carte1{
+        margin-left: 80px;
+    }
+    .carte2{
+        margin-left: 80px;
+    }
+    .carte3{
+        margin-left: 80px;
+    }
+   
+    .picture1{
+        width: 350.74px;
+        height:300.51px;
+    }
+    .picture2{
+        width: 350.74px;
+        height:300.51px;
+    }
+    .picture3{
+        width: 350.74px;
+        height:300.51px;
+    }
+    
+
+ 
+
+
+
+
+    button.b:hover {
+        background-color: white;
+    }
+
+
+
+
+
+
+.souligne{
+   text-decoration: underline;
+}
+.souligne2{
+    text-decoration: underline;
+
+}
+
+
+.mr{
+    color: aliceblue;
+}
+.mr2{
+    color:blanchedalmond;
+}
+.pr1{
+    color:#9CA8B7;
+    font-size:17px;
+}
+.nav-container4-section{
+    display:flex;
+    
+    justify-content: space-between;
+}
+
+.footer{
+    
+    background-color:#2A2D35;
+}
+    .footer1 p{
+        
+        font-size: 20px;
+        color:white;
+    }
+  
+    .list{
+        position:relative
+    }
+    .dropdown{
+        display:none;
+        position:fixed;
+        top: 47px;
+      width: 80%;
+        
+
+        
+        
+        
+        background-color: white;}
+    
+    .list:hover .dropdown {
+        display:flex;}
+    
+        
+
+.derniere{
+text-align: center; 
+margin:30px;
+
+}
+.bloc2{
+    display: flex;
+}
+.hole-bloc{
+    display: flex;
+}
+.term{
+    margin-left: 500px;
+}
+.footer1{
+    padding-left: 50px;
+}
+.footer a:hover{
+    font-weight: bold;
+}
